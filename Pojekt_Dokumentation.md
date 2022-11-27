@@ -20,13 +20,13 @@ Wir erstellen ein Spiel wie Hangman, bei dem man ein Wort, mit begrenzter Anzahl
 | 1 | muss | funktional | Als ein User möchte ich sehen wie viele Versuche ich noch habe, damit ich weiss wie oft ich noch raten kann. |
 | 2 | muss | funktional | Als ein User möchte ich wissen wie lange das Wort ist, damit ich besser abschätzen kann, welche Buchstaben darin vorkommen. |
 | 3 | muss | funktional | Als ein User möchte ich sehen, welche Buchstaben ich schon verwendet habe, damit ich keinen Buchstaben doppelt wähle. |
-| 4 | kann | Qualität | Als ein User möchte ich eine visuelle Darstellung sehen, damit ich weiss wie viele Versuche ich gebraucht habe. |
-| 5 | muss | funktional | Als ein User möchte ich mich nach einem erratenen Wort entscheiden können, ob ich weiterspielen will, damit ich das Spiel beenden kann. |
-| 6 | muss | funktional | Als ein User möchte ich nach einem beendeten Spiel sehen wie viele Wörter ich richtig erraten habe, damit ich weiss, ob ich besser war als vorher |
-| 7 | kann | Qualität | Als ein User möchte ich nach einem beendeten Spiel einen Highscore sehen. |
-| 8 | kann | Qualität | Als ein User möchte ich, dass mein Highscore gespeichert wird, damit ich mich mit vorherigen Runden vergleichen kann. |
-| 9 | muss | funktional | Als ein User möchte ich, dass es mindestens 20 verschiedene Wörter gibt zum Erraten, damit es eine grosse Vielfalt hat. |
-| 10 | muss | funktional | Als ein User möchte ich, dass alle Wörter, die ich erraten habe, nicht mehr drankommen, damit es keine doppelten Wörter hat. |
+| 4 | muss | funktional | Als ein User möchte ich, dass es mindestens 20 verschiedene Wörter gibt zum Erraten, damit es eine grosse Vielfalt hat. |
+| 5 | muss | funktional | Als ein User möchte ich, dass alle Wörter, die ich erraten habe, nicht mehr drankommen, damit es keine doppelten Wörter hat. |
+| 6 | muss | funktional | Als ein User möchte ich mich nach einem erratenen Wort entscheiden können, ob ich weiterspielen will, damit ich das Spiel beenden kann. |
+| 7 | muss | funktional | Als ein User möchte ich nach einem beendeten Spiel sehen wie viele Wörter ich richtig erraten habe, damit ich weiss, ob ich besser war als vorher |
+| 8 | kann | Qualität | Als ein User möchte ich nach einem beendeten Spiel einen Highscore sehen. |
+| 9 | kann | Qualität | Als ein User möchte ich, dass mein Highscore gespeichert wird, damit ich mich mit vorherigen Runden vergleichen kann. |
+| 10 | kann | Qualität | Als ein User möchte ich eine visuelle Darstellung sehen, damit ich weiss wie viele Versuche ich gebraucht habe. |
 
 ✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
