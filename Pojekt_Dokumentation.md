@@ -46,7 +46,7 @@ Wir erstellen ein Spiel wie Hangman, bei dem man ein Wort, mit begrenzter Anzahl
 | 27 | muss | Qualität | Als Programmierer möchte ich, dass das Programm schliesst wenn man Raus tabt, damit mann nicht Wörter googeln kann. |
 | 28 | muss | Qualität | Als Programmierer möchte ich, dass das Programm ausnahmebehandlungen selbst auflösen kann, damit es kein crash gibt. |
 | 29 | muss | Qualität | Als User möchte ich, im Programm mit Buttons Naviegieren, damit wenn ich keine programmische Kenntnisse habe es einfacher ist. |
-| 30 | muss | funktional|  |
+| 30 | kann | Rahmen | Als Programmierer möchte ich Easter Eggs im Programm haben, damit die User die suchen können.  |
 
 ### 1.3 Testfälle
 
