@@ -50,8 +50,8 @@ Wir erstellen ein Spiel wie Hangman, bei dem man ein Wort, mit begrenzter Anzahl
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-|  |              |         |                   |
-|  |              |         |                   |
+|  1   |  Programm wird gestrartet | Buchstabe | Ist der b%uchstabe richtig oder Falsch |
+|  2   |  Programm wird             |         |                   |
 
 
 ### 1.4 Diagramme
@@ -63,17 +63,22 @@ Wir erstellen ein Spiel wie Hangman, bei dem man ein Wort, mit begrenzter Anzahl
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
 | 4.A  |       | Kritzner | Alle Wörter sind in einer Datei gespeichert. | 30min |
-| 4.B |       | Kritzner | Die Wörter werden eingelesen. | 30min |
-| 4.C |       | Kritzner | Nach Zufallsprinzip wird ein Wort zum Erraten gewählt. | 20min |
-| 4.D |       | Kritzner | Nach einer Eingabe eines Buchstabens, soll dieser mit dem gewählten Wort verglichen werden. | 45min |
-| 5.A |       | Kritzner | Wenn ein Wort erraten wird, soll es in einer Liste gespeichert werden. | 15min |
-| 5.B |       | Kritzner | Wenn ein Wort gewählt wird, muss es zuerst mit der Liste verglichen werden. | 30min |
-| 5.C |       | Kritzner | Wenn ein Wort bereits erraten wurde, muss ein neues zufällig generiert werden. | 30min |
-| 6.A |       | Artur | Wenn ein Wort erraten wird, soll das Programm fragen, ob man weiterspielen will. | 30min |
-| 6.B |       | Artur | Wenn ein Wort erraten wird, soll das Programm fragen, ob es das Spiel beenden soll. | 15min |
-| 7.A |       | Artur | Wenn das Spiel beendet wird, soll ein Counter, der zeigt, wie viele Wörter man richtig erraten hat, da stehen| 20min |
-| 7.B |       | Artur | Wenn das Spiel beendet wird, soll es die Punktzahl in einer Liste speichern| 50min |
-| 7.C |       | Artur |Wenn das Spiel beendet wird, soll es mir sagen, ob ich besser als letztes Mal war | 50min |
+| 4.B  |       | Kritzner | Die Wörter werden eingelesen. | 30min |
+| 4.C  |       | Kritzner | Nach Zufallsprinzip wird ein Wort zum Erraten gewählt. | 20min |
+| 4.D  |       | Kritzner | Nach einer Eingabe eines Buchstabens, soll dieser mit dem gewählten Wort verglichen werden. | 45min |
+| 5.A  |       | Kritzner | Wenn ein Wort erraten wird, soll es in einer Liste gespeichert werden. | 15min |
+| 5.B  |       | Kritzner | Wenn ein Wort gewählt wird, muss es zuerst mit der Liste verglichen werden. | 30min |
+| 5.C  |       | Kritzner | Wenn ein Wort bereits erraten wurde, muss ein neues zufällig generiert werden. | 30min |
+| 6.A  |       | Artur | Wenn ein Wort erraten wird, soll das Programm fragen, ob man weiterspielen will. | 30min |
+| 6.B  |       | Artur | Wenn ein Wort erraten wird, soll das Programm fragen, ob es das Spiel beenden soll. | 15min |
+| 7.A  |       | Artur | Wenn das Spiel beendet wird, soll ein Counter, der zeigt, wie viele Wörter man richtig erraten hat, da stehen| 20min |
+| 7.B  |       | Artur | Wenn das Spiel beendet wird, soll es die Punktzahl in einer Liste speichern| 50min |
+| 7.C  |       | Artur |Wenn das Spiel beendet wird, soll es mir sagen, ob ich besser als letztes Mal war | 50min |
+| 8.A  |       | Robin | Ausnahmebehandlung| 60min |
+| 8.B  |       | Robin | Programm wird fortgesetzt, nachdem Fehler abgefangen wurde| 10min
+| 9.A  |       | Robin | Grafische Oberfläche | 50min |
+| 9.B  |       | Robin | Spielmenü | 20 Min |
+| 10.A |       | Robin | Funktionale Buttons programmieren | 50 min|
 
 Total: 
 
