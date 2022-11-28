@@ -52,9 +52,21 @@ Wir erstellen ein Spiel wie Hangman, bei dem man ein Wort, mit begrenzter Anzahl
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-|  1   |  Programm wird gestrartet | Buchstabe | Ist der b%uchstabe richtig oder Falsch |
-|  2   |  Programm wird             |         |                   |
-
+| 1 |  Programm wird gestrartet | Buchstabe | Ist der Buchstabe richtig oder Falsch |
+| 2 |  Programm wird gestartet  | Zahl | Fehlermeldung |
+| 3 |Programm wird gestartet  |      |     |
+| 4|     |     |     |
+| 5|Programm wird gestartet  |      |     |
+| 6|Programm wird gestartet  |      |     |
+| 7|Programm wird gestartet  |      |     |
+| 8|Programm wird gestartet  |      |     |
+| 9|Programm wird gestartet  |      |     |
+| 10Programm wird gestartet  |      |     |
+| 11 Programm wird gestartet  |     |     |
+| 3 |Programm wird gestartet  |      |     |
+| 3 |Programm wird gestartet  |      |     |
+| 3 |Programm wird gestartet  |      |     |
+| 3 |Programm wird gestartet  |      |     |
 
 ### 1.4 Diagramme
 
