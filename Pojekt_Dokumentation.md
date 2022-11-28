@@ -44,7 +44,7 @@ Wir erstellen ein Spiel wie Hangman, bei dem man ein Wort, mit begrenzter Anzahl
 | 25| kann | Qualität | Als User möchte ich im Multiplayer Modus einen Timer einstellen können, damit mein gegner keine Zeitverschwendet.|
 | 26| kann | Qualität | Als User möchte ich im Multiplayer Modus eine Buchstaben grösse einstellen können, damit nicht Hunderte von Buchstaben einfach reinfgeschrieben werden die ich herausfinden muss. |
 | 27 | muss |Qualität | Als Programmierer möchte ich, dass das Programm schliesst wenn man Raus tabt, damit mann nicht Wörter googeln kann. |
-| 28 | kann | Qualität | Als Programmierer möchte ich das
+| 28 | kann | Qualität | Als Programmierer möchte ich, dass das Programm ausnahmebehandlungen selbst auflösen kann, damit es kein crash gibt. |
 
 ### 1.3 Testfälle
 
