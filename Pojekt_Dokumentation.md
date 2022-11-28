@@ -27,6 +27,24 @@ Wir erstellen ein Spiel wie Hangman, bei dem man ein Wort, mit begrenzter Anzahl
 | 8 | kann | Qualität | Als ein User möchte ich nach einem beendeten Spiel einen Highscore sehen. |
 | 9 | kann | Qualität | Als ein User möchte ich, dass mein Highscore gespeichert wird, damit ich mich mit vorherigen Runden vergleichen kann. |
 | 10 | kann | Qualität | Als ein User möchte ich eine visuelle Darstellung sehen, damit ich weiss wie viele Versuche ich gebraucht habe. |
+| 11 | kann | funktional | Als User möchte ich selber gewählte/geschriebene Wörter in das Programm schreiben, damit die Wörter in eine Datenbank speichern.|
+| 12 | kann | funktional | Als User möchte ich Wörter in der Datenbank auswählen, damit ich es mehr Spass macht.| 
+| 13 | muss | Qualität | Als User möchte ich schwierigkeitsstufen bevor das Spiel aussuche, damit es schwerer werden kann. |
+| 14 | kann | funktional | Als User möchte ich einen Timer haben, damit ich sehe wie lange ich pro wort gebraucht habe.|
+| 15 | kann | Qualität | Als User möchte ich den Timer einstellen, damit ich mehr oder weniger Zeit habe. |
+| 16 | kann | funktional | Als User möchte ich eine Zeitbegrenzung haben, damit ich unter Zeitdruck stehe. |
+| 17 | kann | Qualität | Als User möchte ich die Zeitbegrenzung einstellen, damit ich mehr oder weniger Zeit habe. |
+| 18 | muss | Qualität | Als User möchte ich lustige Soundeffekt wenn ich ein Buchstabe richtig oder falsch ist, damit es mehr spassig ist. |
+| 19 | muss | funktional| Als User möchte ich einen Multiplayer Modus haben, damit ich mit freunden spielen kann. |
+| 20 | muss | funktional| Als User möchte ich im Main Menu den Multiplayer Modus auswählen können, damit ich den Multiplayer Modus benutzen kann.
+| 21| muss | funktional| Als User möchte ich das beim Multiplayer Modus Spieler eins auswählen kann welche Rolle er will sein, damit mann nicht immer etwas anderes muss sein. |
+| 22| muss | funktional| Als User möchte ich ein Wort aus der Datenbank hollen kann, damit ich mich entscheiden kann.|
+| 23| kann | Qualität | Als User möchte ich selber neue Wörter schreiben die nicht in der Datenbank zu finden sind, damit keine Repetition stattfindet.|
+| 24| kann | Qualität | Als User möchte ich einstellen im Multiplayer Modus wie viele Runden es gibt, damit man schnellere oder längere Partien haben kann.|
+| 25| kann | Qualität | Als User möchte ich im Multiplayer Modus einen Timer einstellen können, damit mein gegner keine Zeitverschwendet.|
+| 26| kann | Qualität | Als User möchte ich im Multiplayer Modus eine Buchstaben grösse einstellen können, damit nicht Hunderte von Buchstaben einfach reinfgeschrieben werden die ich herausfinden muss. |
+| 27 | muss |Qualität | Als Programmierer möchte ich, dass das Programm schliesst wenn man Raus tabt, damit mann nicht Wörter googeln kann. |
+| 28 | kann | Qualität | Als Programmierer möchte ich das
 
 ### 1.3 Testfälle
 
@@ -51,7 +69,7 @@ Wir erstellen ein Spiel wie Hangman, bei dem man ein Wort, mit begrenzter Anzahl
 | 5.A |       | Kritzner | Wenn ein Wort erraten wird, soll es in einer Liste gespeichert werden. | 15min |
 | 5.B |       | Kritzner | Wenn ein Wort gewählt wird, muss es zuerst mit der Liste verglichen werden. | 30min |
 | 5.C |       | Kritzner | Wenn ein Wort bereits erraten wurde, muss ein neues zufällig generiert werden. | 30min |
-| 6.A |  | Artur | Wenn ein Wort erraten wird, soll das Programm fragen, ob man weiterspielen will. | 30min |
+| 6.A |       | Artur | Wenn ein Wort erraten wird, soll das Programm fragen, ob man weiterspielen will. | 30min |
 | 6.B |       | Artur | Wenn ein Wort erraten wird, soll das Programm fragen, ob es das Spiel beenden soll. | 15min |
 | 7.A |       | Artur | Wenn das Spiel beendet wird, soll ein Counter, der zeigt, wie viele Wörter man richtig erraten hat, da stehen| 20min |
 | 7.B |       | Artur | Wenn das Spiel beendet wird, soll es die Punktzahl in einer Liste speichern| 50min |
