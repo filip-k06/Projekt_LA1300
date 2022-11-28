@@ -65,8 +65,8 @@ Wir erstellen ein Spiel wie Hangman, bei dem man ein Wort, mit begrenzter Anzahl
 |  11  |Programm wird gestartet  | Buchstabe ist Falsch oder richtig  |  -1 Versuch   |
 |  12  |Programm wird gestartet  | Buchstabe ist richtig | Pluspunkte    |
 |  13  |Programm wird gestartet  | Buchstabe ist Falsch in schwerem Modus    |  Minuspunkte   |
-|  14  |Programm wird gestartet  | Wort ist falsch  | Hangman wird erhängt    |
-|  15  |Programm wird gestartet  |     |     |
+|  14  |Programm wird gestartet  | Wort ist falsch  | Pech gehabt   |
+|  15  |Programm wird gestartet  | windowstaste | Progamm wird geschlossen  |
 
 ### 1.4 Diagramme
 
