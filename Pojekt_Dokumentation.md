@@ -94,12 +94,12 @@ Wir erstellen ein Spiel wie Hangman, bei dem man ein Wort, mit begrenzter Anzahl
 | 7.A  |       | Artur | Wenn das Spiel beendet wird, soll ein Counter, der zeigt, wie viele Wörter man richtig erraten hat, da stehen| 20min |
 | 7.B  |       | Artur | Wenn das Spiel beendet wird, soll es die Punktzahl in einer Liste speichern| 50min |
 | 7.C  |       | Artur |Wenn das Spiel beendet wird, soll es mir sagen, ob ich besser als letztes Mal war | 50min |
-| 28.A  |       | Robin | Ausnahmebehandlung| 20min |
-| 28.B  |       | Robin | Programm wird fortgesetzt, nachdem Fehler abgefangen wurde| 10min
-| 29.A  |       | Robin | Grafische Oberfläche | 50min |
-| 29.B  |       | Robin | Spielmenü | 20Min |
+| 28.A  |       | Robin | Ausnahmebehandlung| 30min |
+| 28.B  |       | Robin | Programm wird fortgesetzt, nachdem Fehler abgefangen wurde| 20min
+| 29.A  |       | Robin | Grafische Oberfläche | 60min |
+| 29.B  |       | Robin | Spielmenü | 30Min |
 | 29.C |       | Robin | Funktionale Buttons programmieren | 50min|
-| 13.A |       | Robin | Verschiedene Schwierigkeitsgrade | 20min |   
+| 13.A |       | Robin | Verschiedene Schwierigkeitsgrade | 25min |   
 Total: 
 
 ## 3 Entscheiden
