@@ -76,6 +76,12 @@ Wir erstellen ein Spiel wie Hangman, bei dem man ein Wort, mit begrenzter Anzahl
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
+| 1.A  |       | JW  | Die Versuche und Raten angezeigt werden. | 25 min |
+| 1.B  |       | JW  | Einen Counter für Anzahl Versuche und Raten soll addieren und subtraktieren.  | 55 min |
+| 2.A  |       | JW  | Das Wort wird gezählt.| 30min |
+| 2.B  |       | JW  | Die Anzahl Buchstaben im Wort sollen im Programm angezeigt werden. | 60min |
+| 3.A  |       | JW  | Buchstaben sollen gespeichert werden die schon gewählt wurden. | 90 min |
+| 3.B  |       | JW  | Die schon gewählten Buchstaben sollen auf dem Bild schirn angezeigt sein. | 45 min |
 | 4.A  |       | Kritzner | Alle Wörter sind in einer Datei gespeichert. | 30min |
 | 4.B  |       | Kritzner | Die Wörter werden eingelesen. | 30min |
 | 4.C  |       | Kritzner | Nach Zufallsprinzip wird ein Wort zum Erraten gewählt. | 20min |
