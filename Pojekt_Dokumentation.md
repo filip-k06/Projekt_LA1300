@@ -54,19 +54,19 @@ Wir erstellen ein Spiel wie Hangman, bei dem man ein Wort, mit begrenzter Anzahl
 | ---- | ------------ | ------- | ----------------- |
 |  1   |Programm wird gestrartet | Buchstabe | Ist der Buchstabe richtig oder Falsch |
 |  2   |Programm wird gestartet  | Zahl | Fehlermeldung |
-|  3   |Programm wird gestartet  |      |     |
-|  4   |Programm wird gestartet  |      |     |
-|  5   |Programm wird gestartet  |      |     |
-|  6   |Programm wird gestartet  |      |     |
-|  7   |Programm wird gestartet  |      |     |
-|  8   |Programm wird gestartet  |      |     |
-|  9   |Programm wird gestartet  |      |     |
-|  10  |Programm wird gestartet  |      |     |
-|  11  |Programm wird gestartet  |      |     |
-|  12  |Programm wird gestartet  |      |     |
-|  13  |Programm wird gestartet  |      |     |
-|  14  |Programm wird gestartet  |      |     |
-|  15  |Programm wird gestartet  |      |     |
+|  3   |Programm wird gestartet  | Mausclick auf 1   |  Leichter Modus   |
+|  4   |Programm wird gestartet  | Mausclick auf 2   |  mittlerer Modus   |
+|  5   |Programm wird gestartet  | Mausclick auf 3   |  schwerer Modus  |
+|  6   |Programm wird gestartet  | zu viele versuche   |  Spiel wird beendet   |
+|  7   |Programm wird gestartet  | Spiel wird beendet    |   Willst du nochmal spielen?  |
+|  8   |Programm wird gestartet  | Tab   |   Programm wird geschlossen   |
+|  9   |Programm wird gestartet  | Wörter werden eingelesen   |  Wörter werden in einer Liste gespeichert    |
+|  10  |Programm wird gestartet  | Wort ist korrekt  |  Wort wird in einer neuen Liste gespeicher   |
+|  11  |Programm wird gestartet  | Buchstabe ist Falsch oder richtig  |  -1 Versuch   |
+|  12  |Programm wird gestartet  | Buchstabe ist richtig | Pluspunkte    |
+|  13  |Programm wird gestartet  | Buchstabe ist Falsch in schwerem Modus    |  Minuspunkte   |
+|  14  |Programm wird gestartet  | Wort ist falsch  | Hangman wird erhängt    |
+|  15  |Programm wird gestartet  |     |     |
 
 ### 1.4 Diagramme
 
