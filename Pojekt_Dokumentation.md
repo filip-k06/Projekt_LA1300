@@ -38,7 +38,7 @@ Wir erstellen ein Spiel wie Hangman, bei dem man ein Wort, mit begrenzter Anzahl
 
 ### 1.4 Diagramme
 
-
+![Hangman](https://user-images.githubusercontent.com/110892683/204347838-8f3922c5-1713-4f36-b9be-e3f671a0830b.png)
 
 ## 2 Planen
 
