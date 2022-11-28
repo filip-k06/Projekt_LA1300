@@ -43,10 +43,10 @@ Wir erstellen ein Spiel wie Hangman, bei dem man ein Wort, mit begrenzter Anzahl
 | 24| kann | Qualität | Als User möchte ich einstellen im Multiplayer Modus wie viele Runden es gibt, damit man schnellere oder längere Partien haben kann.|
 | 25| kann | Qualität | Als User möchte ich im Multiplayer Modus einen Timer einstellen können, damit mein gegner keine Zeitverschwendet.|
 | 26| kann | Qualität | Als User möchte ich im Multiplayer Modus eine Buchstaben grösse einstellen können, damit nicht Hunderte von Buchstaben einfach reinfgeschrieben werden die ich herausfinden muss. |
-| 27 | muss |Qualität | Als Programmierer möchte ich, dass das Programm schliesst wenn man Raus tabt, damit mann nicht Wörter googeln kann. |
+| 27 | muss | Qualität | Als Programmierer möchte ich, dass das Programm schliesst wenn man Raus tabt, damit mann nicht Wörter googeln kann. |
 | 28 | muss | Qualität | Als Programmierer möchte ich, dass das Programm ausnahmebehandlungen selbst auflösen kann, damit es kein crash gibt. |
 | 29 | muss | Qualität | Als User möchte ich, im Programm mit Buttons Naviegieren, damit wenn ich keine programmische Kenntnisse habe es einfacher ist. |
-| 30 | muss | Qualität | 
+| 30 | muss | funktional| Als User möchte ich, zwischhen verschiedenen Schwirigkeitsgraden wählen können. |
 
 ### 1.3 Testfälle
 
@@ -88,12 +88,12 @@ Wir erstellen ein Spiel wie Hangman, bei dem man ein Wort, mit begrenzter Anzahl
 | 7.A  |       | Artur | Wenn das Spiel beendet wird, soll ein Counter, der zeigt, wie viele Wörter man richtig erraten hat, da stehen| 20min |
 | 7.B  |       | Artur | Wenn das Spiel beendet wird, soll es die Punktzahl in einer Liste speichern| 50min |
 | 7.C  |       | Artur |Wenn das Spiel beendet wird, soll es mir sagen, ob ich besser als letztes Mal war | 50min |
-| 28.A  |       | Robin | Ausnahmebehandlung| 60min |
+| 28.A  |       | Robin | Ausnahmebehandlung| 20min |
 | 28.B  |       | Robin | Programm wird fortgesetzt, nachdem Fehler abgefangen wurde| 10min
 | 9.A  |       | Robin | Grafische Oberfläche | 50min |
-| 9.B  |       | Robin | Spielmenü | 20 Min |
-| 10.A |       | Robin | Funktionale Buttons programmieren | 50 min|
-
+| 9.B  |       | Robin | Spielmenü | 20Min |
+| 10.A |       | Robin | Funktionale Buttons programmieren | 50min|
+| 30.A |       | Robin | Verschiedene Schwierigkeitsgrade | 20min |   
 Total: 
 
 ## 3 Entscheiden
