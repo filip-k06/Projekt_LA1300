@@ -46,7 +46,7 @@ Wir erstellen ein Spiel wie Hangman, bei dem man ein Wort, mit begrenzter Anzahl
 | 27 | muss | Qualität | Als Programmierer möchte ich, dass das Programm schliesst wenn man Raus tabt, damit mann nicht Wörter googeln kann. |
 | 28 | muss | Qualität | Als Programmierer möchte ich, dass das Programm ausnahmebehandlungen selbst auflösen kann, damit es kein crash gibt. |
 | 29 | muss | Qualität | Als User möchte ich, im Programm mit Buttons Naviegieren, damit wenn ich keine programmische Kenntnisse habe es einfacher ist. |
-| 30 | muss | funktional| Als User möchte ich, zwischhen verschiedenen Schwirigkeitsgraden wählen können. |
+| 30 | muss | funktional|  |
 
 ### 1.3 Testfälle
 
@@ -93,7 +93,7 @@ Wir erstellen ein Spiel wie Hangman, bei dem man ein Wort, mit begrenzter Anzahl
 | 29.A  |       | Robin | Grafische Oberfläche | 50min |
 | 29.B  |       | Robin | Spielmenü | 20Min |
 | 29.C |       | Robin | Funktionale Buttons programmieren | 50min|
-| 30.A |       | Robin | Verschiedene Schwierigkeitsgrade | 20min |   
+| 13.A |       | Robin | Verschiedene Schwierigkeitsgrade | 20min |   
 Total: 
 
 ## 3 Entscheiden
