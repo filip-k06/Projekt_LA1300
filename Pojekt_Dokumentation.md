@@ -99,17 +99,17 @@ Wir erstellen ein Spiel wie Hangman, bei dem man ein Wort, mit begrenzter Anzahl
 | 13.A  |       | Robin | Es soll einen Timer geben | 20min |
 | 13.B  |       | Robin | Dieser Timer soll jedes Wort einzeln timen. | 35min |
 | 14.A  |       | Robin | Man soll eine eigene Zeit einstellen können, wie lange man Zeit für ein Wort hat. | 30min |
-| 15.A  |       | Artur | Es soll einen Modus geben, wo man weniger Zeit pro Fehler hat, sodass man unter Druck steht | 20min |
-| 16.A  |       | Artur | Das Programm soll einen lustigen Soundeffekt abspielen, wenn ein Buchstabe richtig oder falsch ist.| 20min |
-| 17.A  |       | Artur | Man soll mit Freunden in einem Multiplayer-Modus zusammenspielen können. | 15min |
-| 18.A  |       | Artur | Es soll eine Auswahl mit Einstellungen für den Multiplayer-Modus. | 200min |
-| 19.A  |       | Artur | Man soll im Multiplayer-Modus auswählen können, welche Rolle man hat.| 120min |
-| 20.A  |       | Artur | Man soll im Multiplayer-Modus einstellen können, wie viele Runden es gibt, damit man schnellere oder längere Spiele spielen kann. | 150min |
-| 21.A  |       | Artur | Im Multiplayer-Modus soll man auch eine bestimmte Zeit einstellen können. | 40min |
-| 22.A  |       | Artur |Das Spiel soll beendet werden, falls man die Tastenkombination ALT+TAB benutzt, sodass man nicht googlen kann.  | 30min |
-| 23.A  |       | Artur | Das Programm soll Ausnahmebehandlungen selber auflösen, damit es keinen Crash gibt | 90min |
-| 24.A  |       | Artur | Das GUI soll so benutzerfreundlich wie möglich werden, damit es nicht zu kompliziert wird für jemanden, der keine programmische Kenntnisse hat.| 70min |
-| 25.A  |       | Artur | Es soll versteckte Puzzles im Programm geben, die jemandem eine versteckte Einstellung oder andere Art von Belohnung gibt. | 90min |
+| 15.A  |       | Luca | Es soll einen Modus geben, wo man weniger Zeit pro Fehler hat, sodass man unter Druck steht | 20min |
+| 16.A  |       | Luca | Das Programm soll einen lustigen Soundeffekt abspielen, wenn ein Buchstabe richtig oder falsch ist.| 20min |
+| 17.A  |       | Luca | Man soll mit Freunden in einem Multiplayer-Modus zusammenspielen können. | 15min |
+| 18.A  |       | Luca | Es soll eine Auswahl mit Einstellungen für den Multiplayer-Modus. | 200min |
+| 19.A  |       | Luca | Man soll im Multiplayer-Modus auswählen können, welche Rolle man hat.| 120min |
+| 20.A  |       | Luca | Man soll im Multiplayer-Modus einstellen können, wie viele Runden es gibt, damit man schnellere oder längere Spiele spielen kann. | 150min |
+| 21.A  |       | Cedric | Im Multiplayer-Modus soll man auch eine bestimmte Zeit einstellen können. | 40min |
+| 22.A  |       | Cedric |Das Spiel soll beendet werden, falls man die Tastenkombination ALT+TAB benutzt, sodass man nicht googlen kann.  | 30min |
+| 23.A  |       | Cedric | Das Programm soll Ausnahmebehandlungen selber auflösen, damit es keinen Crash gibt | 90min |
+| 24.A  |       | Cedric | Das GUI soll so benutzerfreundlich wie möglich werden, damit es nicht zu kompliziert wird für jemanden, der keine programmische Kenntnisse hat.| 70min |
+| 25.A  |       | Cedric | Es soll versteckte Puzzles im Programm geben, die jemandem eine versteckte Einstellung oder andere Art von Belohnung gibt. | 90min |
 
 
 
