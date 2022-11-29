@@ -93,9 +93,9 @@ Wir erstellen ein Spiel wie Hangman, bei dem man ein Wort, mit begrenzter Anzahl
 | 9.A  |       | Artur |Am Schluss des Spiels, soll es anzeigen, wie viele Versuche man gebraucht hat. | 15min |
 | 10.A  |       | Artur |Man soll in einem Fenster eigene Wörter eingeben und diese sollen in einer Liste gespeichert werden. | 40min |
 | 11.A  |       | Artur |Es soll einen Modus geben, wo man Wörter aus der Liste einzeln auswählen kann. | 120min |
-| 12.A  |       | Robin |Man soll am Anfang vom Spiel auswählen können ob man einfache Wörter will. | 50min |
-| 12.B  |       | Robin |Man soll am Anfang vom Spiel auswählen können ob man mittlere Wörter will. | 20min |
-| 12.C  |       | Robin |Man soll am Anfang vom Spiel auswählen können ob man schwere Wörter will. | 15min |
+| 12.A  |       | Robin |Man soll am Anfang vom Spiel auswählen können ob man einfache Wörter will. | 40min |
+| 12.B  |       | Robin |Man soll am Anfang vom Spiel auswählen können ob man mittlere Wörter will. | 40min |
+| 12.C  |       | Robin |Man soll am Anfang vom Spiel auswählen können ob man schwere Wörter will. | 40min |
 | 13.A  |       | Robin | Es soll einen Timer geben | 20min |
 | 13.B  |       | Robin | Dieser Timer soll jedes Wort einzeln timen. | 35min |
 | 14.A  |       | Robin | Man soll eine eigene Zeit einstellen können, wie lange man Zeit für ein Wort hat. | 30min |
