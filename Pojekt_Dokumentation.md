@@ -25,28 +25,27 @@ Wir erstellen ein Spiel wie Hangman, bei dem man ein Wort, mit begrenzter Anzahl
 | 6 | muss | funktional | Als ein User möchte ich mich nach einem erratenen Wort entscheiden können, ob ich weiterspielen will, damit ich das Spiel beenden kann. |
 | 7 | muss | funktional | Als ein User möchte ich nach einem beendeten Spiel sehen wie viele Wörter ich richtig erraten habe, damit ich weiss, ob ich besser war als vorher |
 | 8 | kann | Qualität | Als ein User möchte ich nach einem beendeten Spiel einen Highscore sehen. |
-| 9 | kann | Qualität | Als ein User möchte ich, dass mein Highscore gespeichert wird, damit ich mich mit vorherigen Runden vergleichen kann. |
-| 10 | kann | Qualität | Als ein User möchte ich eine visuelle Darstellung sehen, damit ich weiss wie viele Versuche ich gebraucht habe. |
-| 11 | kann | funktional | Als User möchte ich selber gewählte/geschriebene Wörter in das Programm schreiben, damit die Wörter in eine Datenbank speichern.|
-| 12 | kann | funktional | Als User möchte ich Wörter in der Datenbank auswählen, damit ich es mehr Spass macht.| 
-| 13 | muss | Qualität | Als User möchte ich schwierigkeitsstufen bevor das Spiel aussuche, damit es schwerer werden kann. |
-| 14 | kann | funktional | Als User möchte ich einen Timer haben, damit ich sehe wie lange ich pro wort gebraucht habe.|
-| 15 | kann | Qualität | Als User möchte ich den Timer einstellen, damit ich mehr oder weniger Zeit habe. |
-| 16 | kann | funktional | Als User möchte ich eine Zeitbegrenzung haben, damit ich unter Zeitdruck stehe. |
-| 17 | kann | Qualität | Als User möchte ich die Zeitbegrenzung einstellen, damit ich mehr oder weniger Zeit habe. |
-| 18 | muss | Qualität | Als User möchte ich lustige Soundeffekt wenn ich ein Buchstabe richtig oder falsch ist, damit es mehr spassig ist. |
-| 19 | muss | funktional| Als User möchte ich einen Multiplayer Modus haben, damit ich mit freunden spielen kann. |
-| 20 | muss | funktional| Als User möchte ich im Main Menu den Multiplayer Modus auswählen können, damit ich den Multiplayer Modus benutzen kann.
-| 21| muss | funktional| Als User möchte ich das beim Multiplayer Modus Spieler eins auswählen kann welche Rolle er will sein, damit mann nicht immer etwas anderes muss sein. |
-| 22| muss | funktional| Als User möchte ich ein Wort aus der Datenbank hollen kann, damit ich mich entscheiden kann.|
-| 23| kann | Qualität | Als User möchte ich selber neue Wörter schreiben die nicht in der Datenbank zu finden sind, damit keine Repetition stattfindet.|
-| 24| kann | Qualität | Als User möchte ich einstellen im Multiplayer Modus wie viele Runden es gibt, damit man schnellere oder längere Partien haben kann.|
-| 25| kann | Qualität | Als User möchte ich im Multiplayer Modus einen Timer einstellen können, damit mein gegner keine Zeitverschwendet.|
-| 26| kann | Qualität | Als User möchte ich im Multiplayer Modus eine Buchstaben grösse einstellen können, damit nicht Hunderte von Buchstaben einfach reinfgeschrieben werden die ich herausfinden muss. |
-| 27 | muss | Qualität | Als Programmierer möchte ich, dass das Programm schliesst wenn man Raus tabt, damit mann nicht Wörter googeln kann. |
-| 28 | muss | Qualität | Als Programmierer möchte ich, dass das Programm ausnahmebehandlungen selbst auflösen kann, damit es kein crash gibt. |
-| 29 | muss | Qualität | Als User möchte ich, im Programm mit Buttons Naviegieren, damit wenn ich keine programmische Kenntnisse habe es einfacher ist. |
-| 30 | kann | Rahmen | Als Programmierer möchte ich Easter Eggs im Programm haben, damit die User die suchen können.  |
+| 9 | kann | Qualität | Als ein User möchte ich eine visuelle Darstellung sehen, damit ich weiss wie viele Versuche ich gebraucht habe. |
+| 10 | kann | funktional | Als User möchte ich selber gewählte/geschriebene Wörter in das Programm schreiben, damit die Wörter in eine Datenbank speichern.|
+| 11 | kann | funktional | Als User möchte ich Wörter in der Datenbank auswählen, damit es mehr Spass macht.| 
+| 12 | muss | Qualität | Als User möchte ich Schwierigkeitsstufen bevor das Spiel startet, damit es schwerer werden kann. |
+| 13 | kann | funktional | Als User möchte ich einen Timer haben, damit ich sehe wie lange ich pro wort gebraucht habe.|
+| 14 | kann | Qualität | Als User möchte ich den Timer einstellen, damit ich mehr oder weniger Zeit habe. |
+| 15 | kann | funktional | Als User möchte ich eine Zeitbegrenzung haben, damit ich unter Zeitdruck stehe. |
+| 16 | kann | Qualität | Als User möchte ich die Zeitbegrenzung einstellen, damit ich mehr oder weniger Zeit habe. |
+| 17 | muss | Qualität | Als User möchte ich lustige Soundeffekt wenn ich ein Buchstabe richtig oder falsch ist, damit es mehr spassig ist. |
+| 18 | muss | funktional| Als User möchte ich einen Multiplayer Modus haben, damit ich mit freunden spielen kann. |
+| 19 | muss | funktional| Als User möchte ich im Main Menu den Multiplayer Modus auswählen können, damit ich den Multiplayer Modus benutzen kann.
+| 20| muss | funktional| Als User möchte ich das beim Multiplayer Modus Spieler eins auswählen kann welche Rolle er will sein, damit mann nicht immer etwas anderes muss sein. |
+| 21| muss | funktional| Als User möchte ich ein Wort aus der Datenbank hollen kann, damit ich mich entscheiden kann.|
+| 22| kann | Qualität | Als User möchte ich selber neue Wörter schreiben die nicht in der Datenbank zu finden sind, damit keine Repetition stattfindet.|
+| 23| kann | Qualität | Als User möchte ich einstellen im Multiplayer Modus wie viele Runden es gibt, damit man schnellere oder längere Partien haben kann.|
+| 24| kann | Qualität | Als User möchte ich im Multiplayer Modus einen Timer einstellen können, damit mein gegner keine Zeitverschwendet.|
+| 25| kann | Qualität | Als User möchte ich im Multiplayer Modus eine Buchstaben grösse einstellen können, damit nicht Hunderte von Buchstaben einfach reinfgeschrieben werden die ich herausfinden muss. |
+| 26 | muss | Qualität | Als Programmierer möchte ich, dass das Programm schliesst wenn man Raus tabt, damit mann nicht Wörter googeln kann. |
+| 2k | muss | Qualität | Als Programmierer möchte ich, dass das Programm ausnahmebehandlungen selbst auflösen kann, damit es kein crash gibt. |
+| 28 | muss | Qualität | Als User möchte ich, im Programm mit Buttons Naviegieren, damit wenn ich keine programmische Kenntnisse habe es einfacher ist. |
+| 29 | kann | Rahmen | Als Programmierer möchte ich Easter Eggs im Programm haben, damit die User die suchen können.  |
 
 ### 1.3 Testfälle
 
@@ -94,6 +93,20 @@ Wir erstellen ein Spiel wie Hangman, bei dem man ein Wort, mit begrenzter Anzahl
 | 7.A  |       | Artur | Wenn das Spiel beendet wird, soll ein Counter, der zeigt, wie viele Wörter man richtig erraten hat, da stehen| 20min |
 | 7.B  |       | Artur | Wenn das Spiel beendet wird, soll es die Punktzahl in einer Liste speichern| 50min |
 | 7.C  |       | Artur |Wenn das Spiel beendet wird, soll es mir sagen, ob ich besser als letztes Mal war | 50min |
+| 8.A  |       | Artur |Während man spielt, soll es am Schluss die höchste erreichte Punktzahl anzeigen. | 25min |
+| 9.A  |       | Artur |Am Schluss des Spiels, soll es anzeigen, wie viele Versuche man gebraucht hat. | 15min |
+| 10.A  |       | Artur |Man soll in einem Fenster eigene Wörter eingeben und diese sollen in einer Liste gespeichert werden. | 40min |
+| 11.A  |       | Artur |Es soll einen Modus geben, wo man Wörter aus der Liste einzeln auswählen kann. | 120min |
+| 12.A  |       | Artur |Man soll am Anfang vom Spiel auswählen können ob man einfache Wörter will. | 50min |
+| 12.B  |       | Artur |Man soll am Anfang vom Spiel auswählen können ob man mittlere Wörter will. | 20min |
+| 12.C  |       | Artur |Man soll am Anfang vom Spiel auswählen können ob man schwere Wörter will. | 15min |
+| 13.A  |       | Artur | Es soll einen Timer geben | 20min |
+| 13.B  |       | Artur | Dieser Timer soll jedes Wort einzeln timen. | 35min |
+| 14.A  |       | Artur | Man soll eine eigene Zeit einstellen können, wie lange man Zeit für ein Wort hat. | 30min |
+| 15.A  |       | Artur | Es soll einen Modus geben, wo man weniger Zeit pro Fehler hat, sodass man unter Druck steht | 20min |
+
+
+
 | 28.A  |       | Robin | Ausnahmebehandlung| 30min |
 | 28.B  |       | Robin | Programm wird fortgesetzt, nachdem Fehler abgefangen wurde| 20min
 | 29.A  |       | Robin | Grafische Oberfläche | 60min |
