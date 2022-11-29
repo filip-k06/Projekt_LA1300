@@ -32,20 +32,16 @@ Wir erstellen ein Spiel wie Hangman, bei dem man ein Wort, mit begrenzter Anzahl
 | 13 | kann | funktional | Als User möchte ich einen Timer haben, damit ich sehe wie lange ich pro wort gebraucht habe.|
 | 14 | kann | Qualität | Als User möchte ich den Timer einstellen, damit ich mehr oder weniger Zeit habe. |
 | 15 | kann | funktional | Als User möchte ich eine Zeitbegrenzung haben, damit ich unter Zeitdruck stehe. |
-| 16 | kann | Qualität | Als User möchte ich die Zeitbegrenzung einstellen, damit ich mehr oder weniger Zeit habe. |
-| 17 | muss | Qualität | Als User möchte ich lustige Soundeffekt wenn ich ein Buchstabe richtig oder falsch ist, damit es mehr spassig ist. |
-| 18 | muss | funktional| Als User möchte ich einen Multiplayer Modus haben, damit ich mit freunden spielen kann. |
-| 19 | muss | funktional| Als User möchte ich im Main Menu den Multiplayer Modus auswählen können, damit ich den Multiplayer Modus benutzen kann.
-| 20| muss | funktional| Als User möchte ich das beim Multiplayer Modus Spieler eins auswählen kann welche Rolle er will sein, damit mann nicht immer etwas anderes muss sein. |
-| 21| muss | funktional| Als User möchte ich ein Wort aus der Datenbank hollen kann, damit ich mich entscheiden kann.|
-| 22| kann | Qualität | Als User möchte ich selber neue Wörter schreiben die nicht in der Datenbank zu finden sind, damit keine Repetition stattfindet.|
-| 23| kann | Qualität | Als User möchte ich einstellen im Multiplayer Modus wie viele Runden es gibt, damit man schnellere oder längere Partien haben kann.|
-| 24| kann | Qualität | Als User möchte ich im Multiplayer Modus einen Timer einstellen können, damit mein gegner keine Zeitverschwendet.|
-| 25| kann | Qualität | Als User möchte ich im Multiplayer Modus eine Buchstaben grösse einstellen können, damit nicht Hunderte von Buchstaben einfach reinfgeschrieben werden die ich herausfinden muss. |
-| 26 | muss | Qualität | Als Programmierer möchte ich, dass das Programm schliesst wenn man Raus tabt, damit mann nicht Wörter googeln kann. |
-| 2k | muss | Qualität | Als Programmierer möchte ich, dass das Programm ausnahmebehandlungen selbst auflösen kann, damit es kein crash gibt. |
-| 28 | muss | Qualität | Als User möchte ich, im Programm mit Buttons Naviegieren, damit wenn ich keine programmische Kenntnisse habe es einfacher ist. |
-| 29 | kann | Rahmen | Als Programmierer möchte ich Easter Eggs im Programm haben, damit die User die suchen können.  |
+| 16 | muss | Qualität | Als User möchte ich lustige Soundeffekt wenn ich ein Buchstabe richtig oder falsch ist, damit es mehr spassig ist. |
+| 17 | muss | funktional| Als User möchte ich einen Multiplayer Modus haben, damit ich mit freunden spielen kann. |
+| 18 | muss | funktional| Als User möchte ich im Main Menu den Multiplayer Modus auswählen können, damit ich den Multiplayer Modus benutzen kann.
+| 19| muss | funktional| Als User möchte ich das beim Multiplayer Modus Spieler eins auswählen kann welche Rolle er will sein, damit mann nicht immer etwas anderes muss sein. |
+| 20| kann | Qualität | Als User möchte ich einstellen im Multiplayer Modus wie viele Runden es gibt, damit man schnellere oder längere Partien haben kann.|
+| 21| kann | Qualität | Als User möchte ich im Multiplayer Modus einen Timer einstellen können, damit mein gegner keine Zeitverschwendet.|
+| 22 | muss | Qualität | Als Programmierer möchte ich, dass das Programm schliesst wenn man Raus tabt, damit mann nicht Wörter googeln kann. |
+| 23 | muss | Qualität | Als Programmierer möchte ich, dass das Programm ausnahmebehandlungen selbst auflösen kann, damit es kein crash gibt. |
+| 24 | muss | Qualität | Als User möchte ich, im Programm mit Buttons Navigieren können, damit wenn ich keine programmische Kenntnisse habe, dass es einfacher ist. |
+| 25 | kann | Rahmen | Als Programmierer möchte ich Easter Eggs im Programm haben, damit die User die suchen können.  |
 
 ### 1.3 Testfälle
 
@@ -104,15 +100,19 @@ Wir erstellen ein Spiel wie Hangman, bei dem man ein Wort, mit begrenzter Anzahl
 | 13.B  |       | Artur | Dieser Timer soll jedes Wort einzeln timen. | 35min |
 | 14.A  |       | Artur | Man soll eine eigene Zeit einstellen können, wie lange man Zeit für ein Wort hat. | 30min |
 | 15.A  |       | Artur | Es soll einen Modus geben, wo man weniger Zeit pro Fehler hat, sodass man unter Druck steht | 20min |
+| 16.A  |       | Artur | Das Programm soll einen lustigen Soundeffekt abspielen, wenn ein Buchstabe richtig oder falsch ist.| 20min |
+| 17.A  |       | Artur | Man soll mit Freunden in einem Multiplayer-Modus zusammenspielen können. | 15min |
+| 18.A  |       | Artur | Es soll eine Auswahl mit Einstellungen für den Multiplayer-Modus. | 200min |
+| 19.A  |       | Artur | Man soll im Multiplayer-Modus auswählen können, welche Rolle man hat.| 120min |
+| 20.A  |       | Artur | Man soll im Multiplayer-Modus einstellen können, wie viele Runden es gibt, damit man schnellere oder längere Spiele spielen kann. | 150min |
+| 21.A  |       | Artur | Im Multiplayer-Modus soll man auch eine bestimmte Zeit einstellen können. | 40min |
+| 22.A  |       | Artur |Das Spiel soll beendet werden, falls man die Tastenkombination ALT+TAB benutzt, sodass man nicht googlen kann.  | 30min |
+| 23.A  |       | Artur | Das Programm soll Ausnahmebehandlungen selber auflösen, damit es keinen Crash gibt | 90min |
+| 24.A  |       | Artur | Das GUI soll so benutzerfreundlich wie möglich werden, damit es nicht zu kompliziert wird für jemanden, der keine programmische Kenntnisse hat.| 70min |
+| 25.A  |       | Artur | Es soll versteckte Puzzles im Programm geben, die jemandem eine versteckte Einstellung oder andere Art von Belohnung gibt. | 90min |
 
 
 
-| 28.A  |       | Robin | Ausnahmebehandlung| 30min |
-| 28.B  |       | Robin | Programm wird fortgesetzt, nachdem Fehler abgefangen wurde| 20min
-| 29.A  |       | Robin | Grafische Oberfläche | 60min |
-| 29.B  |       | Robin | Spielmenü | 30Min |
-| 29.C |       | Robin | Funktionale Buttons programmieren | 50min|
-| 13.A |       | Robin | Verschiedene Schwierigkeitsgrade | 25min |   
 Total: 
 
 ## 3 Entscheiden
