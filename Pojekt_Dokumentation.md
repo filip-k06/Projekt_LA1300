@@ -132,7 +132,8 @@ Wir erstellen ein Spiel wie Hangman, bei dem man ein Wort, mit begrenzter Anzahl
 Total: 
 
 ## 3 Entscheiden
-
+Wir haben uns entschieden keinen Multiplayer, Timer und Datenbank wo man selbst ausgewählte Wörter einschreiben und nacher benutzen kann.
+Dieser Entscheid haben wir durchgeführt wegen Zeitmangel und Priorität für ein Programm der funktioniert.
 
 ## 4 Realisieren
 
