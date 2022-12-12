@@ -5,7 +5,8 @@ Kritzner, Bytyqi, JW, Sacher, Tuma
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
 | 27.11-28.11.22 | 0.0.1   | Schritte 1-3 ausgefüllt. |
-| 29.11.22 | 0.0.2 | grafische Oberfläche fertig gstellt. |
+| 29.11.22 | 0.0.2 | grafische Oberfläche fertig gestellt. |
+| 6.12.22 | 0.0.3 | funktion zwischen grafische Oberfläche und cs Programm fertig gestellt. |
 
 
 ## 1 Informieren
