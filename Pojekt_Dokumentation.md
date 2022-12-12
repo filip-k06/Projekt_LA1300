@@ -63,7 +63,7 @@ Wir erstellen ein Spiel wie Hangman, bei dem man ein Wort, mit begrenzter Anzahl
 |  13  |Programm wird gestartet  | Buchstabe (schwerer Modus) | Wenn der Buchstabe falsch ist -> -1 Versuch + Minuspunkte   |
 |  14  |Programm wird gestartet  | Buchstabe | Wenn richtig wird das Wort mit dem Buchstaben erweitert |
 |  15  |Programm wird gestartet  | windowstaste | Progamm wird geschlossen  |
-|  16  |Programm wird gestartet  | | |
+|  16  |Programm wird gestartet  | ALT+TAB | Spiel wird beendet |
 |  17  |Programm wird gestartet  | | |
 |  18  |Programm wird gestartet  | | |
 |  19  |Programm wird gestartet  | | |
