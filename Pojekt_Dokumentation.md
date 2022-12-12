@@ -48,21 +48,31 @@ Wir erstellen ein Spiel wie Hangman, bei dem man ein Wort, mit begrenzter Anzahl
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-|  1   |Programm wird gestrartet | Buchstabe | Ist der Buchstabe richtig oder Falsch |
+|  1   |Programm wird gestrartet | Buchstabe | Wenn falsch wird das Diagramm erweitert |
 |  2   |Programm wird gestartet  | Zahl | Fehlermeldung |
 |  3   |Programm wird gestartet  | Mausclick auf 1   |  Leichter Modus   |
 |  4   |Programm wird gestartet  | Mausclick auf 2   |  mittlerer Modus   |
 |  5   |Programm wird gestartet  | Mausclick auf 3   |  schwerer Modus  |
-|  6   |Programm wird gestartet  | zu viele versuche   |  Spiel wird beendet   |
-|  7   |Programm wird gestartet  | Spiel wird beendet    |   Willst du nochmal spielen?  |
-|  8   |Programm wird gestartet  | Tab   |   Programm wird geschlossen   |
+|  6   |Programm wird gestartet  | Buchstabe   |  Wenn der Buchstabe falsch ist und der User keine Versuche mehr hat, wird das Spiel beendet.   |
+|  7   | Spiel wurde verloren  |  |   Willst du nochmal spielen?  |
+|  8   |Programm wird gestartet  | Tab |   Programm wird geschlossen   |
 |  9   |Programm wird gestartet  | Wörter werden eingelesen   |  Wörter werden in einer Liste gespeichert    |
-|  10  |Programm wird gestartet  | Wort ist korrekt  |  Wort wird in einer neuen Liste gespeicher   |
-|  11  |Programm wird gestartet  | Buchstabe ist Falsch oder richtig  |  -1 Versuch   |
-|  12  |Programm wird gestartet  | Buchstabe ist richtig | Pluspunkte    |
-|  13  |Programm wird gestartet  | Buchstabe ist Falsch in schwerem Modus    |  Minuspunkte   |
-|  14  |Programm wird gestartet  | Wort ist falsch  | Pech gehabt   |
+|  10  |Programm wird gestartet  | Buchstabe |  Wenn alle Buchstaben eines Wortes richtig erraten wurden, wird das Wort nicht mehr vorkommen. (keine Duplikate) |
+|  11  |Programm wird gestartet  | Buchstabe |  Wenn der Buchstabe falsch ist -1 Versuch   |
+|  12  |Programm wird gestartet  | Buchstabe |  Wenn der Buchstabe richtig ist -> Pluspunkte    |
+|  13  |Programm wird gestartet  | Buchstabe (schwerer Modus) | Wenn der Buchstabe falsch ist -> -1 Versuch + Minuspunkte   |
+|  14  |Programm wird gestartet  | Buchstabe | Wenn richtig wird das Wort mit dem Buchstaben erweitert |
 |  15  |Programm wird gestartet  | windowstaste | Progamm wird geschlossen  |
+|  16  |Programm wird gestartet  | | |
+|  17  |Programm wird gestartet  | | |
+|  18  |Programm wird gestartet  | | |
+|  19  |Programm wird gestartet  | | |
+|  20  |Programm wird gestartet  | | |
+|  21  |Programm wird gestartet  | | |
+|  22  |Programm wird gestartet  | | |
+|  23  |Programm wird gestartet  | | |
+|  24  |Programm wird gestartet  | | |
+|  25  |Programm wird gestartet  | | |
 
 ### 1.4 Diagramme
 
