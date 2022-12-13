@@ -43,7 +43,7 @@ Wir erstellen ein Spiel wie Hangman, bei dem man ein Wort, mit begrenzter Anzahl
 | 22 | muss | Qualität | Als User möchte ich, dass das Programm schliesst wenn man Raus tabt, damit mann nicht Wörter googeln kann. |
 | 23 | muss | Qualität | Als User möchte ich, dass das Programm ausnahmebehandlungen selbst auflösen kann, damit es kein crash gibt. |
 | 24 | muss | Qualität | Als User möchte ich, im Programm mit Buttons Navigieren können, damit wenn ich keine programmische Kenntnisse habe, dass es einfacher ist. |
-| 25 | kann | Rahmen | Als Programmierer möchte ich Easter Eggs im Programm haben, damit die User die suchen können.  |
+| 25 | kann | Rahmen | Als User möchte ich Easter Eggs im Programm haben, damit die User die suchen können.  |
 
 ### 1.3 Testfälle
 
