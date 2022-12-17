@@ -173,8 +173,6 @@ Diesen Entscheid haben wir durchgeführt, weil wir Zeitmangel hatten und eher Pr
 | 24.A  |6.12.22| Cedric |  70min |80min|
 | 25.A  |6.12.22 | Cedric |  90min |120min|
 
-✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
-
 ## 5 Kontrollieren
 
 ### 5.1 Testprotokoll
@@ -184,7 +182,6 @@ Diesen Entscheid haben wir durchgeführt, weil wir Zeitmangel hatten und eher Pr
 | 1.1  |       |          |        |
 | ...  |       |          |        |
 
-✍️ Vergessen Sie nicht, ein Fazit hinzuzufügen, welches das Test-Ergebnis einordnet.
 
 ### 5.2 Exploratives Testen
 
@@ -193,8 +190,5 @@ Diesen Entscheid haben wir durchgeführt, weil wir Zeitmangel hatten und eher Pr
 | I    |              |         |                   |                      |
 | ...  |              |         |                   |                      |
 
-✍️ Verwenden Sie römische Ziffern für Ihre Bug Reports, also I, II, III, IV etc.
 
 ## 6 Auswerten
-
-✍️ Fügen Sie hier eine Verknüpfung zu Ihrem Lern-Bericht ein.
