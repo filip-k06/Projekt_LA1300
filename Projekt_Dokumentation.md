@@ -141,37 +141,37 @@ Diesen Entscheid haben wir durchgeführt, weil wir Zeitmangel hatten und eher Pr
 
 | AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
 | ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A  | 29.12.22 | JW  | 25 min |  |
-| 1.B  | 29.12.22 | JW  | 55 min | |
-| 2.A  |29.12.22 | JW  | 30min | |
-| 2.B  |29.12.22 | JW  | 60min | |
-| 3.A  | 6.12.22 | JW  | 90 min | |
-| 3.B  |6.12.22| JW  |  45 min | |
-| 4.A  |29.12.22 | Kritzner | 30min | |
-| 4.B  |29.12.22 | Kritzner |   30min | |
-| 4.C  |29.12.22| Kritzner |   20min | |
-| 4.D  |29.12.22 | Kritzner |   45min | |
-| 5.A  |29.12.22 | Kritzner |   15min | |
-| 5.B  |29.12.22 | Kritzner |   30min | |
-| 5.C  |6.12.22| Kritzner |   30min | |
-| 6.A  |29.12.22 | Artur |   30min | |
-| 6.B  | 29.12.22| Artur |   15min | |
-| 7.A  | 29.12.22| Artur |   20min | |
-| 7.B  |29.12.22| Artur |  50min | |
-| 7.C  |29.12.22 | Artur |  50min | |
-| 8.A  |29.12.22| Artur | 25min | |
-| 9.A  |6.12.22| Artur |  15min | |
-| 11.A  |6.12.22 | Artur |  120min | |
-| 12.A  |29.12.22 | Robin |  40min | |
-| 12.B  | 29.12.22 | Robin |  40min | |
-| 12.C  |29.12.22| Robin |  40min | |
-| 14.A  |6.12.22| Robin |   30min | |
-| 15.A  |29.12.22 | Luca |   20min | |
-| 16.A  |29.12.22 | Luca |  20min | |
-| 22.A  |29.12.22| Cedric |   30min | |
-| 23.A  |29.12.22| Cedric |   90min | |
-| 24.A  |6.12.22| Cedric |  70min | |
-| 25.A  |6.12.22 | Cedric |  90min | |
+| 1.A  | 29.12.22 | JW  | 25min | 50min |
+| 1.B  | 29.12.22 | JW  | 55min | 60min |
+| 2.A  |29.12.22 | JW  | 30min | 45min|
+| 2.B  |29.12.22 | JW  | 60min | 70min |
+| 3.A  | 6.12.22 | JW  | 90min | 80min |
+| 3.B  |6.12.22| JW  |  45min | 60min |
+| 4.A  |29.12.22 | Kritzner | 30min | 40min |
+| 4.B  |29.12.22 | Kritzner |   30min |80min |
+| 4.C  |29.12.22| Kritzner |   20min |25min |
+| 4.D  |29.12.22 | Kritzner |   45min |70min |
+| 5.A  |29.12.22 | Kritzner |   15min | 15min|
+| 5.B  |29.12.22 | Kritzner |   30min |30min |
+| 5.C  |6.12.22| Kritzner |   30min |40min |
+| 6.A  |29.12.22 | Artur |   30min |50min |
+| 6.B  | 29.12.22| Artur |   15min |15min |
+| 7.A  | 29.12.22| Artur |   20min |20min |
+| 7.B  |29.12.22| Artur |  50min | 100min|
+| 7.C  |29.12.22 | Artur |  50min | 50min|
+| 8.A  |29.12.22| Artur | 25min |25min |
+| 9.A  |6.12.22| Artur |  15min |25min|
+| 11.A  |6.12.22 | Artur |  120min |200min|
+| 12.A  |29.12.22 | Robin |  40min |60min|
+| 12.B  | 29.12.22 | Robin |  40min |45min |
+| 12.C  |29.12.22| Robin |  40min |50min|
+| 14.A  |6.12.22| Robin |   30min |60min|
+| 15.A  |29.12.22 | Luca |   20min |25min|
+| 16.A  |29.12.22 | Luca |  20min |25min|
+| 22.A  |29.12.22| Cedric |   30min |35min|
+| 23.A  |29.12.22| Cedric |   90min |100min|
+| 24.A  |6.12.22| Cedric |  70min |80min|
+| 25.A  |6.12.22 | Cedric |  90min |120min|
 
 ✍️ Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten.
 
