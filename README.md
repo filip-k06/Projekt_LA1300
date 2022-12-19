@@ -15,3 +15,10 @@ Wir können nun beliebige Sounds in C# abspielen. In unserem Programm hört man 
 `Code-Beispiel:`
 
 ![image](https://user-images.githubusercontent.com/110892683/208464774-0e155b94-faaa-412b-9ad9-40352bbc2a95.png)
+
+
+## Reflexion
+
+Das Gute war unsere gute Planung und 
+
+Unsere Team-Arbeit war allerdings am Anfang vorallem im Online-Unterricht nicht so gut, weil niemand wusste was die anderen gerade machten. Wir konnten dies aber lösen indem wir mehr über Teams und Whatsapp kommunizert haben.
