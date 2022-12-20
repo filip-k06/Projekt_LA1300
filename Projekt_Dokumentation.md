@@ -179,8 +179,37 @@ Diesen Entscheid haben wir durchgeführt, weil wir Zeitmangel hatten und eher Pr
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |       |          |        |
-| ...  |       |          |        |
+|  1  |   20.12.2022    |    Funktioniert      |    Tuma + Sacher    |
+|  2  |   20.12.2022    |    Funktioniert nicht      |     Tuma + Sacher   |
+|  3  |   20.12.2022    |    Funktioniert nicht      |     Tuma + Sacher   |
+|  4  |   20.12.2022    |    Funktioniert nicht      |     Tuma + Sacher   |
+|  5  |   20.12.2022    |    Funktioniert nicht      |     Tuma + Sacher   |
+|  6  |   20.12.2022    |    Funktioniert      |     Tuma + Sacher   |
+|  7  |   20.12.2022    |    Funktioniert      |     Tuma + Sacher   |
+|  8  |   20.12.2022    |    Funktioniert nicht     |     Tuma + Sacher   |
+|  9  |   20.12.2022    |    Funktioniert      |     Tuma + Sacher   |
+| 10  |   20.12.2022    |    Funktioniert      |     Tuma + Sacher   |
+| 11  |   20.12.2022    |    Funktioniert nicht     |     Tuma + Sacher   |
+| 12  |   20.12.2022    |    Funktioniert      |     Tuma + Sacher   |
+| 13  |   20.12.2022    |    Funktioniert nicht     |     Tuma + Sacher   |
+| 14  |   20.12.2022    |    Funktioniert      |     Tuma + Sacher   |
+| 15  |   20.12.2022    |    Funktioniert nicht     |     Tuma + Sacher   |
+| 16  |   20.12.2022    |    Funktioniert      |     Tuma + Sacher   |
+| 17  |   20.12.2022    |    Funktioniert nicht     |     Tuma + Sacher   |
+| 18  |   20.12.2022    |    Funktioniert nicht     |     Tuma + Sacher   |
+| 19  |   20.12.2022    |    Funktioniert nicht     |     Tuma + Sacher   |
+| 20  |   20.12.2022    |    Funktioniert      |     Tuma + Sacher   |
+| 21  |   20.12.2022    |    Funktioniert nicht     |     Tuma + Sacher   |
+| 22  |   20.12.2022    |    Funktioniert nicht     |     Tuma + Sacher   |
+| 23  |   20.12.2022    |    Funktioniert nicht     |     Tuma + Sacher   |
+| 24  |   20.12.2022    |    Funktioniert nicht     |     Tuma + Sacher   |
+| 25  |   20.12.2022    |    Funktioniert nicht     |     Tuma + Sacher   |
+| 26  |   20.12.2022    |    Funktioniert nicht     |     Tuma + Sacher   |
+| 27  |   20.12.2022    |    Funktioniert nicht     |     Tuma + Sacher   |
+| 28  |   20.12.2022    |    Funktioniert nicht     |     Tuma + Sacher   |
+| 29  |   20.12.2022    |    Funktioniert      |     Tuma + Sacher   |
+| 30  |   20.12.2022    |    Funktioniert nicht     |     Tuma + Sacher   |
+
 
 
 ### 5.2 Exploratives Testen
