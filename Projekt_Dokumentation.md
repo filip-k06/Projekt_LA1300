@@ -89,12 +89,12 @@ Wir erstellen ein Spiel wie Hangman, bei dem man ein Wort, mit begrenzter Anzahl
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |13.12.2022     | JW  | Die Versuche und Raten angezeigt werden. | 25 min |
-| 1.B  |13.12.2022       | JW  | Einen Counter für Anzahl Versuche und Raten soll addieren und subtraktieren.  | 55 min |
-| 2.A  |13.12.2022       | JW  | Das Wort wird gezählt.| 30min |
-| 2.B  |13.12.2022       | JW  | Die Anzahl Buchstaben im Wort sollen im Programm angezeigt werden. | 60min |
-| 3.A  |13.12.2022       | JW  | Buchstaben sollen gespeichert werden die schon gewählt wurden. | 90 min |
-| 3.B  |13.12.2022       | JW  | Die schon gewählten Buchstaben sollen auf dem Bildschirm angezeigt sein. | 45 min |
+| 1.A  |13.12.2022     | Luca | Die verbleibende Versuche werden angezeigt | 25 min |
+| 1.B  |13.12.2022       | Luca | Einen Zähler für Anzahl Versuche und für die verbrauchten Versuche  | 55 min |
+| 2.A  |13.12.2022       | Luca | Das Wort wird gezählt.| 30min |
+| 2.B  |13.12.2022       | Luca | Die Anzahl Buchstaben im Wort sollen im Programm angezeigt werden. | 60min |
+| 3.A  |13.12.2022       | Luca  | Buchstaben sollen gespeichert werden die schon gewählt wurden. | 90 min |
+| 3.B  |13.12.2022       | Luca  | Die schon gewählten Buchstaben sollen auf dem Bildschirm angezeigt sein. | 45 min |
 | 4.A  |13.12.2022       | Kritzner | Alle Wörter sind in einer Datei gespeichert. | 30min |
 | 4.B  |13.12.2022       | Kritzner | Die Wörter werden eingelesen. | 30min |
 | 4.C  |13.12.2022       | Kritzner | Nach Zufallsprinzip wird ein Wort zum Erraten gewählt. | 20min |
@@ -135,7 +135,7 @@ Total: 1820 Minuten
 
 ## 3 Entscheiden
 Wir haben uns entschieden, dass wir keinen Multiplayer, keinen Timer und keine Datenbank wo man selbst ausgewählte Wörter einschreiben und nachher benutzen kann. Ausserdem lassen wir die verschiedenen Spielmodi weg.
-Diesen Entscheid haben wir durchgeführt, weil wir Zeitmangel hatten und eher Priorität für ein Programm, das funktioniert.
+Diesen Entscheid haben wir durchgeführt, weil wir Zeitmangel hatten und eher Priorität für ein Programm, welches funktioniert.
 
 ## 4 Realisieren
 
@@ -143,11 +143,11 @@ Diesen Entscheid haben wir durchgeführt, weil wir Zeitmangel hatten und eher Pr
 | ---- | ----- | --------- | ------------- | ----------------- |
 | 1.A  | 29.12.22 | JW  | 25min | 50min |
 | 1.B  | 29.12.22 | JW  | 55min | 60min |
-| 2.A  |29.12.22 | JW  | 30min | 45min|
-| 2.B  |29.12.22 | JW  | 60min | 70min |
+| 2.A  | 29.12.22 | JW  | 30min | 45min|
+| 2.B  | 29.12.22 | JW  | 60min | 70min |
 | 3.A  | 6.12.22 | JW  | 90min | 80min |
-| 3.B  |6.12.22| JW  |  45min | 60min |
-| 4.A  |29.12.22 | Kritzner | 30min | 40min |
+| 3.B  | 6.12.22  | JW  |  45min | 60min |
+| 4.A  | 2 9.12.22 | Kritzner | 30min | 40min |
 | 4.B  |29.12.22 | Kritzner |   30min |80min |
 | 4.C  |29.12.22| Kritzner |   20min |25min |
 | 4.D  |29.12.22 | Kritzner |   45min |70min |
