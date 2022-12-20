@@ -21,9 +21,9 @@ Wir können nun beliebige Sounds in C# abspielen. In unserem Programm hört man 
 https://user-images.githubusercontent.com/110892683/208615495-5af60d3c-3d83-426e-86b0-a65cebf3534c.mp4
 
 ## Verifikation
-**Textbeschreibung:** Dient zur Verständnis des Codes.
-**Code-Beispiel:** Zeigt wie man Sounds abspielt.
-**Video:** Zeigt das der Code funktioniert.
+**Textbeschreibung:** Dient zur Verständnis des Codes.<br>
+**Code-Beispiel:** Zeigt wie man Sounds abspielt.<br>
+**Video:** Zeigt das der Code funktioniert.<br>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
