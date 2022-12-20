@@ -89,49 +89,49 @@ Wir erstellen ein Spiel wie Hangman, bei dem man ein Wort, mit begrenzter Anzahl
 
 | AP-№ | Frist | Zuständig | Beschreibung | geplante Zeit |
 | ---- | ----- | --------- | ------------ | ------------- |
-| 1.A  |       | JW  | Die Versuche und Raten angezeigt werden. | 25 min |
-| 1.B  |       | JW  | Einen Counter für Anzahl Versuche und Raten soll addieren und subtraktieren.  | 55 min |
-| 2.A  |       | JW  | Das Wort wird gezählt.| 30min |
-| 2.B  |       | JW  | Die Anzahl Buchstaben im Wort sollen im Programm angezeigt werden. | 60min |
-| 3.A  |       | JW  | Buchstaben sollen gespeichert werden die schon gewählt wurden. | 90 min |
-| 3.B  |       | JW  | Die schon gewählten Buchstaben sollen auf dem Bildschirm angezeigt sein. | 45 min |
-| 4.A  |       | Kritzner | Alle Wörter sind in einer Datei gespeichert. | 30min |
-| 4.B  |       | Kritzner | Die Wörter werden eingelesen. | 30min |
-| 4.C  |       | Kritzner | Nach Zufallsprinzip wird ein Wort zum Erraten gewählt. | 20min |
-| 4.D  |       | Kritzner | Nach einer Eingabe eines Buchstabens, soll dieser mit dem gewählten Wort verglichen werden. | 45min |
-| 5.A  |       | Kritzner | Wenn ein Wort erraten wird, soll es in einer Liste gespeichert werden. | 15min |
-| 5.B  |       | Kritzner | Wenn ein Wort gewählt wird, muss es zuerst mit der Liste verglichen werden. | 30min |
-| 5.C  |       | Kritzner | Wenn ein Wort bereits erraten wurde, muss ein neues zufällig generiert werden. | 30min |
-| 6.A  |       | Artur | Wenn ein Wort erraten wird, soll das Programm fragen, ob man weiterspielen will. | 30min |
-| 6.B  |       | Artur | Wenn ein Wort erraten wird, soll das Programm fragen, ob es das Spiel beenden soll. | 15min |
-| 7.A  |       | Artur | Wenn das Spiel beendet wird, soll ein Counter, der zeigt, wie viele Wörter man richtig erraten hat, da stehen| 20min |
-| 7.B  |       | Artur | Wenn das Spiel beendet wird, soll es die Punktzahl in einer Liste speichern| 50min |
-| 7.C  |       | Artur |Wenn das Spiel beendet wird, soll es mir sagen, ob ich besser als letztes Mal war | 50min |
-| 8.A  |       | Artur |Während man spielt, soll es am Schluss die höchste erreichte Punktzahl anzeigen. | 25min |
-| 9.A  |       | Artur |Am Schluss des Spiels, soll es anzeigen, wie viele Versuche man gebraucht hat. | 15min |
-| 10.A  |       | Artur |Man soll in einem Fenster eigene Wörter eingeben und diese sollen in einer Liste gespeichert werden. | 40min |
-| 11.A  |       | Artur |Es soll einen Modus geben, wo man Wörter aus der Liste einzeln auswählen kann. | 120min |
-| 12.A  |       | Robin |Man soll am Anfang vom Spiel auswählen können ob man einfache Wörter will. | 40min |
-| 12.B  |       | Robin |Man soll am Anfang vom Spiel auswählen können ob man mittlere Wörter will. | 40min |
-| 12.C  |       | Robin |Man soll am Anfang vom Spiel auswählen können ob man schwere Wörter will. | 40min |
-| 13.A  |       | Robin | Es soll einen Timer geben | 20min |
-| 13.B  |       | Robin | Dieser Timer soll jedes Wort einzeln timen. | 35min |
-| 14.A  |       | Robin | Man soll eine eigene Zeit einstellen können, wie lange man Zeit für ein Wort hat. | 30min |
-| 15.A  |       | Luca | Es soll einen Modus geben, wo man weniger Zeit pro Fehler hat, sodass man unter Druck steht | 20min |
-| 16.A  |       | Luca | Das Programm soll einen lustigen Soundeffekt abspielen, wenn ein Buchstabe richtig oder falsch ist.| 20min |
-| 17.A  |       | Luca | Man soll mit Freunden in einem Multiplayer-Modus zusammenspielen können. | 15min |
-| 18.A  |       | Luca | Es soll eine Auswahl mit Einstellungen für den Multiplayer-Modus. | 200min |
-| 19.A  |       | Luca | Man soll im Multiplayer-Modus auswählen können, welche Rolle man hat.| 120min |
-| 20.A  |       | Luca | Man soll im Multiplayer-Modus einstellen können, wie viele Runden es gibt, damit man schnellere oder längere Spiele spielen kann. | 150min |
-| 21.A  |       | Cedric | Im Multiplayer-Modus soll man auch eine bestimmte Zeit einstellen können. | 40min |
-| 22.A  |       | Cedric |Das Spiel soll beendet werden, falls man die Tastenkombination ALT+TAB benutzt, sodass man nicht Googlen kann.  | 30min |
-| 23.A  |       | Cedric | Das Programm soll Ausnahmebehandlungen selber auflösen, damit es keinen Crash gibt | 90min |
-| 24.A  |       | Cedric | Das GUI soll so benutzerfreundlich wie möglich werden, damit es nicht zu kompliziert wird für jemanden, der keine programmische Kenntnisse hat.| 70min |
-| 25.A  |       | Cedric | Es soll versteckte Puzzles im Programm geben, die jemandem eine versteckte Einstellung oder andere Art von Belohnung gibt. | 90min |
+| 1.A  |13.12.2022     | JW  | Die Versuche und Raten angezeigt werden. | 25 min |
+| 1.B  |13.12.2022       | JW  | Einen Counter für Anzahl Versuche und Raten soll addieren und subtraktieren.  | 55 min |
+| 2.A  |13.12.2022       | JW  | Das Wort wird gezählt.| 30min |
+| 2.B  |13.12.2022       | JW  | Die Anzahl Buchstaben im Wort sollen im Programm angezeigt werden. | 60min |
+| 3.A  |13.12.2022       | JW  | Buchstaben sollen gespeichert werden die schon gewählt wurden. | 90 min |
+| 3.B  |13.12.2022       | JW  | Die schon gewählten Buchstaben sollen auf dem Bildschirm angezeigt sein. | 45 min |
+| 4.A  |13.12.2022       | Kritzner | Alle Wörter sind in einer Datei gespeichert. | 30min |
+| 4.B  |13.12.2022       | Kritzner | Die Wörter werden eingelesen. | 30min |
+| 4.C  |13.12.2022       | Kritzner | Nach Zufallsprinzip wird ein Wort zum Erraten gewählt. | 20min |
+| 4.D  | 13.12.2022      | Kritzner | Nach einer Eingabe eines Buchstabens, soll dieser mit dem gewählten Wort verglichen werden. | 45min |
+| 5.A  | 13.12.2022      | Kritzner | Wenn ein Wort erraten wird, soll es in einer Liste gespeichert werden. | 15min |
+| 5.B  | 13.12.2022      | Kritzner | Wenn ein Wort gewählt wird, muss es zuerst mit der Liste verglichen werden. | 30min |
+| 5.C  | 13.12.2022      | Kritzner | Wenn ein Wort bereits erraten wurde, muss ein neues zufällig generiert werden. | 30min |
+| 6.A  |  13.12.2022     | Artur | Wenn ein Wort erraten wird, soll das Programm fragen, ob man weiterspielen will. | 30min |
+| 6.B  |  13.12.2022     | Artur | Wenn ein Wort erraten wird, soll das Programm fragen, ob es das Spiel beenden soll. | 15min |
+| 7.A  |  13.12.2022     | Artur | Wenn das Spiel beendet wird, soll ein Counter, der zeigt, wie viele Wörter man richtig erraten hat, da stehen| 20min |
+| 7.B  |   13.12.2022    | Artur | Wenn das Spiel beendet wird, soll es die Punktzahl in einer Liste speichern| 50min |
+| 7.C  |   13.12.2022    | Artur |Wenn das Spiel beendet wird, soll es mir sagen, ob ich besser als letztes Mal war | 50min |
+| 8.A  |   13.12.2022    | Artur |Während man spielt, soll es am Schluss die höchste erreichte Punktzahl anzeigen. | 25min |
+| 9.A  |  13.12.2022     | Artur |Am Schluss des Spiels, soll es anzeigen, wie viele Versuche man gebraucht hat. | 15min |
+| 10.A  | 13.12.2022      | Artur |Man soll in einem Fenster eigene Wörter eingeben und diese sollen in einer Liste gespeichert werden. | 40min |
+| 11.A  |13.12.2022       | Artur |Es soll einen Modus geben, wo man Wörter aus der Liste einzeln auswählen kann. | 120min |
+| 12.A  | 13.12.2022      | Robin |Man soll am Anfang vom Spiel auswählen können ob man einfache Wörter will. | 40min |
+| 12.B  |  13.12.2022     | Robin |Man soll am Anfang vom Spiel auswählen können ob man mittlere Wörter will. | 40min |
+| 12.C  |  13.12.2022     | Robin |Man soll am Anfang vom Spiel auswählen können ob man schwere Wörter will. | 40min |
+| 13.A  | 13.12.2022      | Robin | Es soll einen Timer geben | 20min |
+| 13.B  | 13.12.2022      | Robin | Dieser Timer soll jedes Wort einzeln timen. | 35min |
+| 14.A  | 13.12.2022      | Robin | Man soll eine eigene Zeit einstellen können, wie lange man Zeit für ein Wort hat. | 30min |
+| 15.A  | 13.12.2022      | Luca | Es soll einen Modus geben, wo man weniger Zeit pro Fehler hat, sodass man unter Druck steht | 20min |
+| 16.A  | 13.12.2022      | Luca | Das Programm soll einen lustigen Soundeffekt abspielen, wenn ein Buchstabe richtig oder falsch ist.| 20min |
+| 17.A  | 13.12.2022      | Luca | Man soll mit Freunden in einem Multiplayer-Modus zusammenspielen können. | 15min |
+| 18.A  | 13.12.2022      | Luca | Es soll eine Auswahl mit Einstellungen für den Multiplayer-Modus. | 200min |
+| 19.A  | 13.12.2022      | Luca | Man soll im Multiplayer-Modus auswählen können, welche Rolle man hat.| 120min |
+| 20.A  | 13.12.2022      | Luca | Man soll im Multiplayer-Modus einstellen können, wie viele Runden es gibt, damit man schnellere oder längere Spiele spielen kann. | 150min |
+| 21.A  |13.12.2022       | Cedric | Im Multiplayer-Modus soll man auch eine bestimmte Zeit einstellen können. | 40min |
+| 22.A  | 13.12.2022      | Cedric |Das Spiel soll beendet werden, falls man die Tastenkombination ALT+TAB benutzt, sodass man nicht Googlen kann.  | 30min |
+| 23.A  | 13.12.2022      | Cedric | Das Programm soll Ausnahmebehandlungen selber auflösen, damit es keinen Crash gibt | 90min |
+| 24.A  | 13.12.2022      | Cedric | Das GUI soll so benutzerfreundlich wie möglich werden, damit es nicht zu kompliziert wird für jemanden, der keine programmische Kenntnisse hat.| 70min |
+| 25.A  | 13.12.2022      | Cedric | Es soll versteckte Puzzles im Programm geben, die jemandem eine versteckte Einstellung oder andere Art von Belohnung gibt. | 90min |
 
 
 
-Total: 
+Total: 1820 Minuten
 
 ## 3 Entscheiden
 Wir haben uns entschieden, dass wir keinen Multiplayer, keinen Timer und keine Datenbank wo man selbst ausgewählte Wörter einschreiben und nachher benutzen kann. Ausserdem lassen wir die verschiedenen Spielmodi weg.
