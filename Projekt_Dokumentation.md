@@ -187,8 +187,36 @@ Diesen Entscheid haben wir durchgeführt, weil wir Zeitmangel hatten und eher Pr
 
 | BR-№ | Ausgangslage | Eingabe | Erwartete Ausgabe | Tatsächliche Ausgabe |
 | ---- | ------------ | ------- | ----------------- | -------------------- |
-| I    |              |         |                   |                      |
-| ...  |              |         |                   |                      |
+|  1   |Programm wird gestrartet | Nichts |Startseite des Spiels | Startseite öffnet sich
+|  2   |Programm wurde gestartet und ist im Main Menu  | Mausclick auf Schwierigkeiten | Zeigt die drei Schwierigkeiten |
+|  3   |Programm wurde gestartet und ist im Schwierigkeitsmenu  | Mausclick auf Einfach   |  Leichter Modus   |
+|  4   |Programm wurde gestartet und ist im Schwierigkeitsmenu  | Mausclick auf Mittel   |  Mittlerer Modus   |
+|  5   |Programm wurde gestartet und ist im Schwierigkeitsmenu  | Mausclick auf Schwierig  |  Schwerer Modus  |
+|  6   |Programm wurde gestartet und sucht sich ein Wort aus der Liste | Nichts  | Zeigt Anzahl Buchstaben des Wortes.    |
+|  7   |Programm wurde gestartet und ist im Spiel | Mausclick A |  "Korrekt! Sie haben richtig erraten." |
+|  8   |Programm wurde gestartet und ist im Spiel | Nichts |  Buchstabe A ist an der zweiten Stelle.  |
+|  9   |Programm wurde gestartet und ist im Spiel | Mausclick B  | "Falsch! Sie haben falsch erraten."  |
+|  10  |Programm wurde gestartet und ist im Spiel | Nichts | Teil des Persons im Hangman erscheint und minus ein Leben.  |
+|  11  |Programm wurde gestartet und ist im Spiel | Mausclick O |  "Korrekt! Sie haben richtig erraten." |
+|  12  |Programm wurde gestartet und ist im Spiel | Nichts |  Buchstabe O ist an der fünften Stelle.  |
+|  13  |Programm wurde gestartet und ist im Spiel | Mausclick T |  "Korrekt! Sie haben richtig erraten." |
+|  14  |Programm wurde gestartet und ist im Spiel | Nichts |  Buchstabe T ist an der vierten Stelle.  |
+|  15  |Programm wurde gestartet und ist im Spiel | Mausclick M |  "Falsch! Sie haben falsch erraten." |
+|  16  |Programm wurde gestartet und ist im Spiel | Nichts |  Teil des Persons im Hangman erscheint und minus ein Leben.   |
+|  17  |Programm wurde gestartet und ist im Spiel | Mausclick L |  "Korrekt! Sie haben richtig erraten." |
+|  18  |Programm wurde gestartet und ist im Spiel | Nichts |  Buchstabe L ist an der ersten Stelle.  |
+|  19  |Programm wurde gestartet und ist im Spiel | Mausclick N |   "Falsch! Sie haben falsch erraten." |
+|  20  |Programm wurde gestartet und ist im Spiel | Nichts |    Teil des Persons im Hangman erscheint und minus ein Leben.  |
+|  21  |Programm wurde gestartet und ist im Spiel | Mausclick I |   "Falsch! Sie haben falsch erraten." |
+|  22  |Programm wurde gestartet und ist im Spiel | Nichts |  Buchstabe L ist an der ersten Stelle.  |
+|  23  |Programm wurde gestartet und ist im Spiel | Mausclick H |   "Falsch! Sie haben falsch erraten." |
+|  24  |Programm wurde gestartet und ist im Spiel | Nichts |  Buchstabe L ist an der ersten Stelle.  |
+|  25  |Programm wurde gestartet und ist im Spiel | Mausclick P |   "Korrekt! Sie haben richtig erraten." |
+|  26  |Programm wurde gestartet und ist im Spiel | Nichts |  Buchstabe P ist an der dritten und sechster Stelle. |
+|  27  |Programm wurde gestartet und ist im Spiel | Nichts | "Kongratulation  Sie haben gewonnen." |
+|  28  |Programm wurde gestartet und man hat keine Leben mehr | Nichts | Volles Hangman wird angezeigt. |
+|  29  |Programm wurde gestartet und man hat keine Leben mehr | Nichts | Spielt Sound von Robin. |
+|  30  |Programm wurde gestartet und ist im Menu | Alt + Tab | Programm schliesst. |
 
 
 ## 6 Auswerten
