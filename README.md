@@ -19,6 +19,8 @@ Wir können nun beliebige Sounds in C# abspielen. In unserem Programm hört man 
 
 ## Reflexion
 
-Das Gute war unsere gute Planung und 
+Wir konnten uns dank dem Online-Unterricht besser konzentrieren und fokussieren, darum konnten wir viele Fehler finden und beheben.
 
 Unsere Team-Arbeit war allerdings am Anfang vorallem im Online-Unterricht nicht so gut, weil niemand wusste was die anderen gerade machten. Wir konnten dies aber lösen indem wir mehr über Teams und Whatsapp kommunizert haben.
+
+VBV: Ein Verbesserungsvorschlag wäre, dass wir nach jeder Sitzung jeder seine Fortschritte den anderen zeigen würde. So würden immer alle wissen wer was gemacht hat.
